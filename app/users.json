@@ -1,0 +1,21 @@
+[
+    {
+      "nome": "Ana Admin",
+      "email": "ana@empresa.com",
+      "senha": "Admin1234",
+      "role": "admin",
+      "idade": 35,
+      "departamento": "TI",
+      "localizacao": "Recife"
+    },
+    {
+      "nome": "Carlos Usuário",
+      "email": "carlos@empresa.com",
+      "senha": "Usuario123",
+      "role": "usuario",
+      "idade": 22,
+      "departamento": "RH",
+      "localizacao": "São Paulo"
+    }
+  ]
+  
